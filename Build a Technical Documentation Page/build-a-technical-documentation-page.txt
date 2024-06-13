@@ -1,0 +1,208 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Documentation</title>
+    <style>
+        /* Basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        #navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 250px;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+        .nav-link {
+            display: block;
+            margin-bottom: 10px;
+            text-decoration: none;
+            color: #333;
+        }
+        .main-section {
+            margin-left: 260px;
+            padding: 20px;
+        }
+        /* Media query for responsiveness */
+        @media (max-width: 768px) {
+            #navbar {
+                display: none;
+            }
+            .main-section {
+                margin-left: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav id="navbar">
+         
+
+             <header>Technical Documentation</header>
+        <a href="#Introduction" class="nav-link">Introduction</a>
+        <a href="#JavaScript_and_Java" class="nav-link">JavaScript and Java</a>
+        <a href="#Variables" class="nav-link">Variables</a>
+        <a href="#HTML_and_CSS" class="nav-link">HTML_and_CSS</a>
+        <a href="#Constants" class="nav-link">Constants</a>
+        <a href="#Hello_World" class="nav-link">Hello World</a>
+    
+        
+        </nav>
+
+
+        
+
+
+    
+    <main id="main-doc">
+
+ <section id="Introduction" class="main-section">
+
+     <header>Introduction</header>
+   
+            <p>JavaScript is a cross-platform, object-oriented scripting language. It is a small and lightweight language. Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.</p>
+
+
+
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+
+            </section>
+
+
+            <section id="JavaScript_and_Java" class="main-section">
+
+                <header>JavaScript and Java
+
+                </header>
+
+   <h2>JavaScript and Java</h2>
+            <p>JavaScript and Java are similar in some ways but fundamentally different in some others. The JavaScript language resembles Java but does not have Java's static typing and strong type checking. JavaScript follows most Java expression syntax, naming conventions and basic control-flow constructs which was the reason why it was renamed from LiveScript to JavaScript.</p>
+
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            </section>
+
+
+            <section id="Variables" class="main-section">
+
+             <header>Variables</header>
+   <h2>Variables</h2>
+            <p>You use variables as symbolic names for values in your application. The names of variables, called identifiers, conform to certain rules.</p>
+
+
+<code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+
+
+
+
+            </section>
+
+
+
+        <section id="HTML_and_CSS" class="main-section">
+
+
+<header>HTML_and_CSS</header>
+            
+            <h2>HTML and CSS</h2>
+            <p>HTML (Hypertext Markup Language) is the standard markup language for creating web pages. CSS (Cascading Style Sheets) is used for styling and layout.</p>
+
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+           
+        </section>
+
+        <section id="Constants" class="main-section">
+
+
+            <header>Constants</header>
+            <h2>Constants</h2>
+            <p>You can create a read-only, named constant with the const keyword. The syntax of a constant identifier is the same as for a variable identifier: it must start with a letter, underscore or dollar sign and can contain alphabetic, numeric, or underscore characters.</p>
+
+            <ul>
+                <li>
+                    <a href="">Home</a>
+                </li>
+
+                <li>
+                    <a href="">About</a>
+                </li>
+
+                <li>
+                    <a href="">Contact</a>
+                </li>
+
+                <li>
+                    <a href="">R</a>
+                </li>
+
+                <li>
+                    <a href="">J</a>
+                </li>
+
+            </ul>
+
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+            <code>hello</code>
+
+
+            </section>
+
+<section id="Hello_World" class="main-section">
+
+    <header>Hello World</header>
+            <h2>Hello World</h2>
+            <p>To get started with writing JavaScript, open the Scratchpad and write your first "Hello world" JavaScript code.</p>
+
+             <p>To get started with writing JavaScript, open the Scratchpad and write your first "Hello world" JavaScript code.</p>
+
+              <p>To get started with writing JavaScript, open the Scratchpad and write your first "Hello world" JavaScript code.</p>
+
+              <p>To get started with writing JavaScript, open the Scratchpad and write your first "Hello world" JavaScript code.</p> 
+
+               <p>To get started with writing JavaScript, open the Scratchpad and write your first "Hello world" JavaScript code.</p>
+
+
+
+        </section>
+
+       
+        
+    </main>
+</body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+

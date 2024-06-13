@@ -1,0 +1,54 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+<body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Please fill out the form below to participate in our survey.</p>
+
+    <form id="survey-form">
+        <label for="name" id="name-label">Nom :</label>
+        <input type="text" id="name" required placeholder="Entrez votre nom">
+
+        <label for="email" id="email-label">Adresse e-mail :</label>
+        <input type="email" id="email" required placeholder="Entrez votre adresse e-mail">
+
+        <label for="number" id="number-label">Âge :</label>
+        <input type="number" id="number" min="18" max="120" placeholder="Entrez votre âge">
+
+        <label for="dropdown">Choisissez une option :</label>
+        <select id="dropdown">
+            <option value="option1">Option 1</option>
+            <option value="option2">Option 2</option>
+        </select>
+
+        <p>Choisissez votre genre :</p>
+        <input type="radio" name="gender" value="male"> Homme
+        <input type="radio" name="gender" value="female"> Femme
+
+        <p>Intérêts :</p>
+        <input type="checkbox" name="interests" value="sports"> Sports
+        <input type="checkbox" name="interests" value="music"> Musique
+        <input type="checkbox" name="interests" value="movies"> Films
+
+        <label for="comments">Commentaires :</label>
+        <textarea id="comments" rows="4" placeholder="Entrez vos commentaires ici"></textarea>
+
+        <button type="submit" id="submit">Envoyer</button>
+    </form>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+

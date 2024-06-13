@@ -1,0 +1,109 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Landing Page</title>
+    <style>
+        /* Basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        /* Header styles */
+        #header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        #header-img {
+            max-width: 100%;
+            height: auto;
+        }
+        /* Navigation bar styles */
+        #nav-bar {
+            background-color: #444;
+            display: flex;
+            justify-content: space-around;
+            padding: 10px;
+            position: fixed;
+            top: 0;
+        }
+        .nav-link {
+            color: #fff;
+            text-decoration: none;
+        }
+        /* Form styles */
+        #form {
+            text-align: center;
+            padding: 20px;
+        }
+        #email {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        #submit {
+            background-color: #0074D9;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+       
+        @media (max-width: 768px) {
+            
+        }
+    </style>
+</head>
+<body>
+    <header id="header">
+
+        <nav id="nav-bar">
+            <a href="#section1" class="nav-link">Section 1</a>
+            <a href="#section2" class="nav-link">Section 2</a>
+            <a href="#section3" class="nav-link">Section 3</a>
+        </nav>
+
+
+        <img src="your-logo.png" alt="Company Logo" id="header-img">
+        
+        <video width="320" height="240" id="video" src="movie.mp4">
+   
+ 
+</video>
+        
+    </header>
+
+    <section id="section1">
+        
+    </section>
+    <section id="section2">
+        
+    </section>
+    <section id="section3">
+       
+    </section>
+
+    <form id="form" action="https://www.freecodecamp.com/email-submit" method="post">
+
+
+        <input type="email" id="email" placeholder="Enter your email address" name="email" required>
+        <input type="submit" id="submit" value="Submit">
+    </form>
+</body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
